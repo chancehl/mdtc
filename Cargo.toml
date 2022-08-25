@@ -2,6 +2,14 @@
 name = "mdtc"
 version = "0.1.0"
 edition = "2021"
+authors = ["Chance Linz <clinz.dev@gmail.com>"]
+license = "ISC"
+description = "A simple program to generate a markdown table for the user"
+readme = "README.md"
+homepage = "https://github.com/chancehl/mdtc"
+repository = "https://github.com/chancehl/mdtc"
+keywords = ["cli", "markdown", "table"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

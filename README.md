@@ -1,5 +1,5 @@
 # mdtc 0.1.0
-A simple program to generate a markdown &table for the user
+A simple program to generate a markdown table for the user
 
 ```
 USAGE:

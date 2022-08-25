@@ -2,7 +2,7 @@ use clap::Parser;
 use clipboard::{ClipboardContext, ClipboardProvider};
 use colored::Colorize;
 
-/// A simple program to generate a markdown &table for the user
+/// A simple program to generate a markdown table for the user
 #[derive(Parser, Debug)]
 #[clap(author, version, about, long_about = None)]
 struct Args {
